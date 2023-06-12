@@ -185,3 +185,15 @@ export const createResource = (promise) => {
  };
 ```
 [코드 출처](https://www.youtube.com/watch?v=8q7OQSPLF4k)
+
+### 출처
+https://yozm.wishket.com/magazine/detail/1705/
+https://www.youtube.com/watch?v=aCgaVfWMRBw
+https://scarlett-dev.gitbook.io/all/it/lazy-loading
+https://jokerkwu.tistory.com/199
+https://17.reactjs.org/docs/concurrent-mode-suspense.html
+https://www.youtube.com/watch?v=8q7OQSPLF4k
+https://bamtory29.tistory.com/entry/React-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85
+https://legacy.reactjs.org/docs/code-splitting.html
+https://developer.mozilla.org/ko/docs/Glossary/Code_splitting
+https://wikidocs.net/197644
