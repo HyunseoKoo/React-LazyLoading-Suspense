@@ -189,3 +189,4 @@ export const createResource = (promise) => {
      };
  };
 ```
+[코드 출처](https://www.youtube.com/watch?v=8q7OQSPLF4k)
